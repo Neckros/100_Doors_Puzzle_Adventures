@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e3cc6f5d6952dbe49be78403a44f5388
+timeCreated: 1491377492
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VAG World
+  fontNames:
+  - VAG World
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63ef6f4a0609be442a7e70585dd89aea, type: 3}
+  m_Name: Victorian_Data
+  m_EditorClassIdentifier: 
+  dataName: Victorian
+  dragonBonesJSON: {fileID: 4900000, guid: 8493b926c7541b840b22afb8aa4f5cfc, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 0b20728577c140e419c64c4bb3e18385, type: 3}
+    texture: {fileID: 2800000, guid: 29c0f540578f1624687b276c9ab1fc01, type: 3}
+    material: {fileID: 2100000, guid: 0274611f81eb23a42a8b540f97ffdc9a, type: 2}
+    uiMaterial: {fileID: 0}

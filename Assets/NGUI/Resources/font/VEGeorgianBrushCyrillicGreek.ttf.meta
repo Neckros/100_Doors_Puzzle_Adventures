@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 693bd89353238954aa95d5348eecdde7
+timeCreated: 1522230291
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VEGeorgianBrushCyrillicGreek
+  fontNames:
+  - VEGeorgianBrushCyrillicGreek
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f748a0f16c2bb63478bd0a81a2d4cdae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
